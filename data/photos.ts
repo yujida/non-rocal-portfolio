@@ -68,8 +68,8 @@ export const photos: Photo[] = [
     src: '/photos/photo-07.jpg',
     width: 1536,
     height: 1152,
-    title: '분홍 기계열',
-    description: '같은 표정의 기계들이 밝은 색으로 장소의 차이를 지운다.',
+    title: '네온 뽑기 기계',
+    description: '같은 표정의 기계들이 네온 색으로 장소의 차이를 지운다.',
     alt: '분홍 네온 조명의 크레인 게임기가 줄지어 놓인 장면'
   },
   {
@@ -77,7 +77,7 @@ export const photos: Photo[] = [
     src: '/photos/photo-08.jpg',
     width: 1152,
     height: 1536,
-    title: '캡슐의 방',
+    title: '가챠의 방',
     description: '작은 화면과 기계들이 취향을 무균적인 진열장처럼 배열한다.',
     alt: '파란빛이 감도는 실내에 캡슐 뽑기 기계들이 벽처럼 늘어선 장면'
   },
@@ -86,7 +86,7 @@ export const photos: Photo[] = [
     src: '/photos/photo-09.jpg',
     width: 1536,
     height: 1152,
-    title: '밤의 임시 도시',
+    title: '야장풍경',
     description: '불빛과 천막이 모여 주소보다 먼저 밤의 리듬을 만든다.',
     alt: '밤에 여러 포장마차와 손님들이 밝은 조명 아래 모여 있는 장면'
   },

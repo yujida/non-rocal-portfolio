@@ -381,7 +381,7 @@ button {
   }
 
   .intro-copy h1 {
-    font-size: clamp(4rem, 22vw, 7rem);
+    font-size: clamp(3.6rem, 18vw, 6.2rem);
   }
 
   .project-note {
