@@ -148,26 +148,6 @@ export default function Home() {
             <p className="eyebrow">project statement</p>
             <h2>〈非RO컬〉</h2>
           </div>
-          <div className="about-copy">
-            <p>{projectNote}</p>
-            <p>
-              사진은 한 장씩 독립된 화면으로 배치했다. 제목과 한 줄 설명은 사진을 대신 설명하지 않고,
-              장면을 보는 속도만 조절한다.
-            </p>
-            <dl className="credit-list">
-              <div>
-                <dt>사진·글</dt>
-                <dd>박상욱</dd>
-              </div>
-              <div>
-                <dt>작품 수</dt>
-                <dd>{photos.length}점</dd>
-              </div>
-            </dl>
-            <a className="enter-link" href="#intro">
-              처음으로 돌아가기
-            </a>
-          </div>
         </div>
       </section>
 
